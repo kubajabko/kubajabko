@@ -7,7 +7,7 @@
 
 ### Projects:
 ####  [MWO-REPORTER](https://github.com/kubajabko/mwo-report-system) 🎓
-> Final group project for my postgraduate software development studies
+> Final group project for my postgraduate software development studies - console app for generating employees-hours-projects reports
 
 <!--
 **kubajabko/kubajabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
