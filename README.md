@@ -1,7 +1,5 @@
 ### Hi there, I'm Kuba 👋
 
-🔧 Mechanical engineer and a Java beginner 💻
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakubchochol/)](https://www.linkedin.com/in/jakubchochol/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chocholjakub@gmail.com)](mailto:chocholjakub@gmail.com)
 
