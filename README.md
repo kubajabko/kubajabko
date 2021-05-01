@@ -11,7 +11,7 @@
 > Fullstack exercise from my studies - [deployed at Heroku](https://mwo-fullstack.herokuapp.com/)
 
 ####  [Java - hangman](https://github.com/kubajabko/java-hangman) 🎓
-> Java console mini-game excersize from my studies
+> Java console mini-game excersize from my studies (in Polish)
 
 <!--
 **kubajabko/kubajabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
