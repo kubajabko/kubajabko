@@ -5,7 +5,13 @@
 
 ### Projects:
 ####  [MWO-REPORTER](https://github.com/kubajabko/mwo-report-system) 🎓
-> Final group project for my postgraduate software development studies - console app for generating employees-hours-projects reports
+> Final group project for my postgraduate software engineering studies - console app for generating employees-hours-projects reports
+
+####  [Enroller - fullstack](https://github.com/kubajabko/enroller-fullstack) 🎓
+> Fullstack exercise from my studies - [deployed at Heroku](https://mwo-fullstack.herokuapp.com/)
+
+####  [Java - hangman](https://github.com/kubajabko/java-hangman) 🎓
+> Java console mini-game excersize from my studies
 
 <!--
 **kubajabko/kubajabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
