@@ -5,7 +5,7 @@
 
 ### Projects:
 ####  [Db-example](https://github.com/kubajabko/db-example) 📚
-> Console demo app - creates and mamages database using Hibernate+SQLite, provides displaying and modifiying through console
+> Console demo app - creates and manages database using Hibernate+SQLite, provides displaying and modifiying through console
 
 ####  [MWO-REPORTER](https://github.com/kubajabko/mwo-report-system) 🎓
 > Final group project for my postgraduate software engineering studies - console app for generating employees-hours-projects reports
